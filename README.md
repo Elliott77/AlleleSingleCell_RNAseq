@@ -1,7 +1,6 @@
 # What is AlleleSingleCell_RNAseq?
 This python script counts maternal and paternal scRNA-seq reads based on maternal and paternal variants.
 
-
 # Python Libraries
 Python 2.7
 Python scrict requires the python packages:
