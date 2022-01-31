@@ -19,7 +19,6 @@ import sys
 import time
 import math
 import multiprocessing as mp
-#from multiprocessing import Process
 
 ##methods
 def remove_comma(snp):
