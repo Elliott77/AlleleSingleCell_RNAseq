@@ -19,7 +19,7 @@ Requires scRNA-seq alignment file BAM
 Requres a barcode file (TSV) with barcodes for individual cells.
 Number of Cores: for multiprocessing.   
 
-In our case, we mated C57/B6 and Castaneous mice. We sequced cells from the F1 hybrid offspring mice.
+In our case, we mated C57/B6 and Castaneous mice. We sequnced cells from the F1 hybrid offspring mice.
 These inbred strains are seperated by about 500,000 years of evolution, enough to have many distingushing variants but still interbeed. 
 This allows us to distinguish many RNA-seq reads as maternally or paternally transcribed. See paper for details:
 https://www.cell.com/neuron/pdf/S0896-6273(17)30057-0.pdf
